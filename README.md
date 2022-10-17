@@ -4,30 +4,4 @@ The Higher Course in Technology in Internet Systems aims to train qualified prof
 
 # Knowledge about:
 
-Front End Development.
-
-Application Development.
-
-Digital Logic and Computer Organization.
-
-Database.
-
-Back End Development.
-
-Data Structures.
-
-Fundamentals of Mathematics.
-
-Systems Analysis and Design.
-
-Software Engineering.
-
-User Experience.
-
-Operational systems.
-
-Computer network.
-
-Object Oriented Programming.
-
-Cloud Computing, among other disciplines.
+Front End Development; Application Development;Digital Logic and Computer Organization; Database; Back End Development; Data Structures; Fundamentals of Mathematics; Systems Analysis and Design; Software Engineering; User Experience; Operational systems; Computer network; Object Oriented Programming; Cloud Computing, among other disciplines.
